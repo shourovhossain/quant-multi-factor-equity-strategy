@@ -71,3 +71,10 @@ Seaborn
 ---
 
 ## Project Structure
+
+---
+
+## Author
+
+Shourov Hossain
+MSc Accounting & Business Intelligence
