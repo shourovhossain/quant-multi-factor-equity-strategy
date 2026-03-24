@@ -78,4 +78,4 @@ Seaborn
 
 Shourov Hossain
 
-MSc Accounting & Business Intelligence
+MSc in Accounting & Business Intelligence
